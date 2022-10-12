@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.BackStagePassesTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-12T14:55:27" hostname="DESKTOP-G8FDFTE" time="0.026">
+  <properties/>
+  <testcase name="Sellin under 6, Quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.001"/>
+  <testcase name="Sellin = 6, Quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.004"/>
+  <testcase name="Sellin = 11, quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.001"/>
+  <testcase name="Sellin under 6, Quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.002"/>
+  <testcase name="Sellin under 0, quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.0"/>
+  <testcase name="Sellin under 6, quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.001"/>
+  <testcase name="Sellin more than 0, quality under 50" classname="com.gildedrose.BackStagePassesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
